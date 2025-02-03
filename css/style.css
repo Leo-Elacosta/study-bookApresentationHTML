@@ -1,0 +1,48 @@
+body {
+    background-color: azure;
+}
+
+div {
+    text-align: center;
+    padding: 25px 30px;
+    margin: 0 auto;
+    border-bottom: 3px solid aquamarine;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 0 50px;
+    margin: 15px;
+    line-height: 22px;
+}
+
+span {
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+img {
+    width: 260px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+a {
+    color: white;
+    background-color: crimson;
+    border: 2px yellow;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
